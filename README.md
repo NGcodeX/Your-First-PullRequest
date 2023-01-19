@@ -8,4 +8,5 @@ read the [contribution guideline](contributing.md) to learn how to contribute
 
  - [ngdream](https://github.com/ngdream): :heart: c++ and python
  - [PiloteZebs](https://github.com/NGUENAZEBS): Java EE
+ - VotreNom
 
